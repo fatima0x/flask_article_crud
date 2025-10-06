@@ -10,6 +10,11 @@ flask-migrate
 flask-bootstrap
 flask-ckeditor
 email-validator
+
 python-dotenv
 flask-sqlalchemy
+flask-mysqldb
+flask-bcrypt
+flask-session
+
 
