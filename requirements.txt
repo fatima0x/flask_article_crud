@@ -1,0 +1,15 @@
+Flask
+gunicorn
+requests
+psycopg2
+sqlalchemy
+flask-wtf
+wtforms
+flask-login
+flask-migrate
+flask-bootstrap
+flask-ckeditor
+email-validator
+python-dotenv
+flask-sqlalchemy
+
